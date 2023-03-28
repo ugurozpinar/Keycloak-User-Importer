@@ -24,5 +24,5 @@ Realm: The realm in Keycloak where the users will be imported.
 SheetName: The name of the sheet in the Excel file that contains the user data.
 I used 4,5,6,7,8th columns for user attributes. You can change variable names and index numbers.
 
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
