@@ -1,0 +1,31 @@
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Keycloak User Import.exe.config
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Keycloak User Import.exe
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Keycloak User Import.pdb
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\ExcelDataReader.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Newtonsoft.Json.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\RestSharp.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Buffers.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Memory.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Numerics.Vectors.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Text.Encodings.Web.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Text.Json.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.ValueTuple.dll
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\ExcelDataReader.pdb
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\ExcelDataReader.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\Newtonsoft.Json.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\RestSharp.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Buffers.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Memory.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Numerics.Vectors.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Text.Encodings.Web.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Text.Json.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\bin\Release\System.ValueTuple.xml
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\obj\Release\Keycloak User Import.csprojResolveAssemblyReference.cache
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\obj\Release\Keycloak User Import.exe
+C:\Projects\desktop-apps\Keycloak User Import\Keycloak User Import\obj\Release\Keycloak User Import.pdb
